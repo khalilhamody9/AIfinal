@@ -1,0 +1,32 @@
+##  problem1 ##
+
+	Finished in 27 Steps.
+	Reward result-> 301 
+	Door opened at step True
+Solved problem1 in 0.042 seconds
+###############################################
+
+	Finished in 28 Steps.
+	Reward result-> 141 
+	Door opened at step True
+Solved problem1 in 0.033 seconds
+###############################################
+
+	Finished in 33 Steps.
+	Reward result-> 188.5 
+	Door opened at step True
+Solved problem1 in 0.026 seconds
+###############################################
+
+	Finished in 34 Steps.
+	Reward result-> 129 
+	Door opened at step True
+Solved problem1 in 0.039 seconds
+###############################################
+
+	Finished in 45 Steps.
+	Reward result-> 17 
+	Door opened at step True
+Solved problem1 in 0.042 seconds
+###############################################
+##  problem2 ##
